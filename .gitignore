@@ -1,0 +1,10 @@
+# Reference images — not ours to redistribute (copyright)
+*.jpg
+*.jpeg
+
+# Old scrapped attempt
+Archive-Unprompted/
+
+# Blender backup/autosave noise
+*.blend1
+*.blend@
