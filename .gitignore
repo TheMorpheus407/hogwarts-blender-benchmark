@@ -8,3 +8,10 @@ Archive-Unprompted/
 # Blender backup/autosave noise
 *.blend1
 *.blend@
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Work-in-progress / scratch renders
+wip/
