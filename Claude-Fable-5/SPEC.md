@@ -1,7 +1,10 @@
 # Hogwarts — Full Environment Build
 
 Build **Hogwarts castle and its complete surrounding landscape** as a single
-Blender scene, working through the Blender MCP tools.
+Blender scene. A live Blender instance is already running and connected via
+the Blender MCP server (`blender-official`) — do all scene work through its
+tools: execute `bpy` code with it, and use its screenshot/render tools to
+inspect your work as you go.
 
 Four reference images sit in this folder, next to this file — study all of
 them before you model anything:
@@ -29,6 +32,9 @@ render of a AAA production.
 
 ## Hard constraints
 
+- **Work exclusively through the Blender MCP** (`blender-official`) against
+  the already-running Blender instance. Do not launch separate Blender
+  processes or build the scene any other way.
 - **This folder is your entire workspace.** Read the references from it and
   save every deliverable into it. Do not read from or write to anything
   outside this folder — no other directories, no downloads, no external
