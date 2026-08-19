@@ -15,3 +15,7 @@ __pycache__/
 
 # Work-in-progress / scratch renders
 wip/
+
+# Render/batch logs
+*.log
+render_batch_log*.json
