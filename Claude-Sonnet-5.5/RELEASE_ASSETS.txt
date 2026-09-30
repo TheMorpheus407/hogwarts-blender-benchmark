@@ -1,0 +1,9 @@
+Files of this run that exceed GitHub's 100 MB file limit are attached to the
+release https://github.com/TheMorpheus407/hogwarts-blender-benchmark/releases/tag/claude-sonnet-5-5
+instead of being stored in git.
+
+name      hogwarts.blend
+path      Claude-Sonnet-5.5/hogwarts.blend
+size      176033265 bytes
+sha256    0d651da399015998411498e1832fe05dc1758930df5ca582a4226624cb4705f2
+download  https://github.com/TheMorpheus407/hogwarts-blender-benchmark/releases/download/claude-sonnet-5-5/hogwarts.blend
