@@ -19,3 +19,7 @@ wip/
 # Render/batch logs
 *.log
 render_batch_log*.json
+
+# Large .blend files published as GitHub release assets (see RELEASE_ASSETS.txt)
+/Claude-Opus-5.5/hogwarts.blend
+/Claude-Sonnet-5.5/hogwarts.blend
