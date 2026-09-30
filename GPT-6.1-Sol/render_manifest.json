@@ -1,0 +1,215 @@
+{
+  "build_brief": "SPEC.md",
+  "blender_version": "5.1.1",
+  "scene": "hogwarts.blend",
+  "mood": "Moonlit Highland blue hour",
+  "procedural_only": true,
+  "renders": {
+    "hero.png": {
+      "scene_revision": "gilding-enamel-connected-lead-v1",
+      "index": 0,
+      "camera": "Cam_Hero",
+      "file": "hero.png",
+      "started": 1790752257.7871304,
+      "settings": {
+        "engine": "CYCLES",
+        "samples": 1024,
+        "adaptive_sampling": false,
+        "denoising": true,
+        "width": 3840,
+        "height": 2160,
+        "percentage": 100,
+        "color_depth": "16"
+      },
+      "completed": 1790752442.9912739,
+      "elapsed_seconds": 185.2,
+      "bytes": 35498699,
+      "sha256": "428d8fc8c19755b637c5ac9aa8ebde24b4fd0b2aaa7b775afaf43b2cf0f8e660",
+      "verified_png_dimensions": [
+        3840,
+        2160
+      ]
+    },
+    "angle_aerial.png": {
+      "scene_revision": "gilding-enamel-connected-lead-v1",
+      "index": 1,
+      "camera": "Cam_Aerial",
+      "file": "angle_aerial.png",
+      "started": 1790752443.164649,
+      "settings": {
+        "engine": "CYCLES",
+        "samples": 1024,
+        "adaptive_sampling": false,
+        "denoising": true,
+        "width": 3840,
+        "height": 2160,
+        "percentage": 100,
+        "color_depth": "16"
+      },
+      "completed": 1790752643.3614807,
+      "elapsed_seconds": 200.2,
+      "bytes": 39947643,
+      "sha256": "088a11cb047ef3709be0318e4a0584e1fe95736e22f0103e7d0cb95aceeb295d",
+      "verified_png_dimensions": [
+        3840,
+        2160
+      ]
+    },
+    "angle_boathouse.png": {
+      "scene_revision": "gilding-enamel-connected-lead-v1",
+      "index": 2,
+      "camera": "Cam_Boathouse",
+      "file": "angle_boathouse.png",
+      "started": 1790752643.5400531,
+      "settings": {
+        "engine": "CYCLES",
+        "samples": 1024,
+        "adaptive_sampling": false,
+        "denoising": true,
+        "width": 3840,
+        "height": 2160,
+        "percentage": 100,
+        "color_depth": "16"
+      },
+      "completed": 1790752990.7226121,
+      "elapsed_seconds": 347.2,
+      "bytes": 35500394,
+      "sha256": "bc2732cf214fae0d936cf06e315bbc3f6d67d46750a71727b6f939b3042e39c1",
+      "verified_png_dimensions": [
+        3840,
+        2160
+      ]
+    },
+    "angle_viaduct.png": {
+      "scene_revision": "gilding-enamel-connected-lead-v1",
+      "index": 3,
+      "camera": "Cam_Viaduct",
+      "file": "angle_viaduct.png",
+      "started": 1790752990.9057248,
+      "settings": {
+        "engine": "CYCLES",
+        "samples": 1024,
+        "adaptive_sampling": false,
+        "denoising": true,
+        "width": 3840,
+        "height": 2160,
+        "percentage": 100,
+        "color_depth": "16"
+      },
+      "completed": 1790753120.9041061,
+      "elapsed_seconds": 130.0,
+      "bytes": 34097730,
+      "sha256": "c97781f79f68c221fae908bbfee47d2707e956ca3a6d0cd4c70e2036a6ff0d4d",
+      "verified_png_dimensions": [
+        3840,
+        2160
+      ]
+    },
+    "detail_01.png": {
+      "scene_revision": "gilding-enamel-connected-lead-v1",
+      "index": 4,
+      "camera": "Cam_Detail_Turret",
+      "file": "detail_01.png",
+      "started": 1790753121.0970643,
+      "settings": {
+        "engine": "CYCLES",
+        "samples": 1024,
+        "adaptive_sampling": false,
+        "denoising": true,
+        "width": 3840,
+        "height": 2160,
+        "percentage": 100,
+        "color_depth": "16"
+      },
+      "completed": 1790753289.1168635,
+      "elapsed_seconds": 168.0,
+      "bytes": 37736430,
+      "sha256": "bf876d651bbcb6376e88edcfd50252c0321d78d61fec430afdd74827b2e93ead",
+      "verified_png_dimensions": [
+        3840,
+        2160
+      ]
+    },
+    "detail_02.png": {
+      "scene_revision": "gilding-enamel-connected-lead-v1",
+      "index": 5,
+      "camera": "Cam_Detail_Boathouse",
+      "file": "detail_02.png",
+      "started": 1790753289.3144164,
+      "settings": {
+        "engine": "CYCLES",
+        "samples": 1024,
+        "adaptive_sampling": false,
+        "denoising": true,
+        "width": 3840,
+        "height": 2160,
+        "percentage": 100,
+        "color_depth": "16"
+      },
+      "completed": 1790753565.4643586,
+      "elapsed_seconds": 276.1,
+      "bytes": 38433478,
+      "sha256": "067d60a3d06b74eed02870df7d95c02469ee260223a4c23d4fc6eb1cb8c1196d",
+      "verified_png_dimensions": [
+        3840,
+        2160
+      ]
+    },
+    "detail_03.png": {
+      "scene_revision": "gilding-enamel-connected-lead-v1",
+      "index": 6,
+      "camera": "Cam_Detail_Stone",
+      "file": "detail_03.png",
+      "started": 1790753565.6597683,
+      "settings": {
+        "engine": "CYCLES",
+        "samples": 1024,
+        "adaptive_sampling": false,
+        "denoising": true,
+        "width": 3840,
+        "height": 2160,
+        "percentage": 100,
+        "color_depth": "16"
+      },
+      "completed": 1790753759.7799993,
+      "elapsed_seconds": 194.1,
+      "bytes": 40000652,
+      "sha256": "812c0ff48ce7f0cb787524ca56071c17a658419c1ea9e3eba4cc1eea14abeb7d",
+      "verified_png_dimensions": [
+        3840,
+        2160
+      ]
+    }
+  },
+  "scene_revision": "gilding-enamel-connected-lead-v1",
+  "completed": 1790754032.0301182,
+  "blend": {
+    "file": "hogwarts.blend",
+    "bytes": 34211226,
+    "sha256": "ffd428ba888773a960df4f9effd74d8153922d2435b19148dc49b7a9920c0e96",
+    "active_camera": "Cam_Hero",
+    "output_path": "//hero.png",
+    "engine": "CYCLES",
+    "samples": 1024,
+    "resolution": [
+      3840,
+      2160
+    ],
+    "resolution_percentage": 100,
+    "denoising": true,
+    "external_dependencies": 0
+  },
+  "visual_review": {
+    "files": [
+      "hero.png",
+      "angle_aerial.png",
+      "angle_boathouse.png",
+      "angle_viaduct.png",
+      "detail_01.png",
+      "detail_02.png",
+      "detail_03.png"
+    ],
+    "reviewed": true,
+    "details": "Castle silhouette, landscape depth, camera framing, arch openings, slate geometry, weathered stone, clock legibility and full lead networks inspected."
+  }
+}

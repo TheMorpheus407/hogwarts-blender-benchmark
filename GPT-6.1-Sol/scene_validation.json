@@ -1,0 +1,46 @@
+{
+  "scene": "Hogwarts \u2022 The Blue Hour",
+  "scene_revision": "gilding-enamel-connected-lead-v1",
+  "blender": "5.1.1",
+  "units": "METRIC",
+  "metres_per_unit": 1.0,
+  "objects": 14490,
+  "unique_meshes": 1387,
+  "unique_mesh_vertices": 1266272,
+  "unique_mesh_polygons": 1090494,
+  "window_objects": 729,
+  "forest_instances": 12295,
+  "root_collections": [
+    "Castle",
+    "Terrain",
+    "Nature",
+    "Lights",
+    "FX",
+    "Cameras"
+  ],
+  "cameras": [
+    "Cam_Aerial",
+    "Cam_Boathouse",
+    "Cam_Detail_Boathouse",
+    "Cam_Detail_Stone",
+    "Cam_Detail_Turret",
+    "Cam_Hero",
+    "Cam_Viaduct"
+  ],
+  "linked_libraries": 0,
+  "image_texture_nodes": 0,
+  "external_image_paths": [],
+  "visible_meshes_without_materials": [],
+  "nonfinite_object_transforms": [],
+  "nonfinite_mesh_coordinates": [],
+  "orphan_datablocks": [],
+  "verified_delivery_files": [
+    "hero.png",
+    "angle_aerial.png",
+    "angle_boathouse.png",
+    "angle_viaduct.png",
+    "detail_01.png",
+    "detail_02.png",
+    "detail_03.png"
+  ]
+}
