@@ -1,0 +1,9 @@
+Files of this run that exceed GitHub's 100 MB file limit are attached to the
+release https://github.com/TheMorpheus407/hogwarts-blender-benchmark/releases/tag/claude-opus-5-5
+instead of being stored in git.
+
+name      hogwarts.blend
+path      Claude-Opus-5.5/hogwarts.blend
+size      123072153 bytes
+sha256    82e886e5c675b3c2225aa2d79291a0aa7369122b6576daed7964df2a0b95210d
+download  https://github.com/TheMorpheus407/hogwarts-blender-benchmark/releases/download/claude-opus-5-5/hogwarts.blend
